@@ -9,7 +9,7 @@ source activate kaggle-cooking
 ```
 Pull all git submodules:
 ```
-pull --recurse-submodules
+git pull --recurse-submodules
 ```
 and compile `fastText` if you're going to use it:
 ```
